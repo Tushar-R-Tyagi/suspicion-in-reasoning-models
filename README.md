@@ -16,7 +16,8 @@ more consistently than the internal signal predicts.
 ## What's in this repo
 
 - **The notebook** — the full working notebook (Colab), with all cells and outputs.
-  Fair warning: this is a **real research notebook, not a cleaned library**. It
+  Fair warning: this is a **real research notebook, not a cleaned library**. Although I have added a
+  a cell of the clean pipeline in the first cell and after that it
   contains exploratory scaffolding, dead ends, and cells that aren't guaranteed to run
   top-to-bottom in order. The write-up is the clean account of what was actually done;
   the notebook is the raw workings behind it.
